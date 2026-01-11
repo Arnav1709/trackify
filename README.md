@@ -35,7 +35,7 @@ Trackify is a next-generation AI-powered attendance tracker built with **Gemini*
 - **Frontend**: Flutter  
 - **Natural Language Processing**: Gemini for AI-powered natural language queries  
 - **Backend**: Firebase (Authentication, Database Storage)  
-- **In-App Purchases**: RevenueCat for IAP management  
+- **In-App Purchases**: in_app_purchase for native store billing and premium gating  
 
 ## Installation  
 
