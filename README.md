@@ -14,10 +14,10 @@ Trackify is a next-generation AI-powered attendance tracker built with **Gemini*
 
 ## Resume Highlights  
 
-- Built a cross-platform Flutter app integrating Gemini for natural language attendance queries.  
-- Implemented secure authentication and data storage with Firebase services.  
-- Integrated RevenueCat to manage in-app purchases and premium feature access.  
-- Delivered AI-driven attendance insights and exportable reports for end users.  
+- Built a Flutter + GetX cross-platform attendance tracker with Firebase Auth/Firestore for user, subject, and log persistence.  
+- Created an AI attendance assistant powered by Gemini API that answers natural-language questions using contextual subject stats.  
+- Implemented premium gating with in-app purchases (in_app_purchase) including restore flows and persisted premium state.  
+- Designed attendance analytics UI: overall dashboard, search/filterable subject cards, detailed logs, and bulk actions.  
 
 ## Screenshots  
 
